@@ -1,6 +1,9 @@
 # multispectral-band-ratios
 A dictionary-like Python object to get band ratios with ASTER images  
 
+### TODO
+Add a real ASTER granule example and plots of output
+
 ### Usage  
 1. Instantiate the SpectralIndices object
         band_ratios = SpectralIndices(img)
