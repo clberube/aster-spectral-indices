@@ -7,7 +7,7 @@ Created on Thu Dec 13 13:57:58 2018
 
 import numpy as np
 
-class SpectralIndices(dict):
+class Indices(dict):
     """This class contains useful functions to compute band ratios
     with image data from the ASTER instrument.
 
